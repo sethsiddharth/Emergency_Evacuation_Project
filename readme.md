@@ -3,4 +3,4 @@ The object of this project is to design a virtual infrastructure taking the numb
 The following code is written in NetLogo programming language (using NetLogo 3D 4.1.2).
 
 PS: NetLogo is a multi-agent programmable modeling environment and which can be downloaded from http://ccl.northwestern.edu/netlogo/ .
-If you face any difficulty in interpreting the code feel free to contact me on siddharthseth007@gmail.com. 
+If you face any difficulty in interpreting the code feel free to drop me a mail at siddharthseth007@gmail.com. 
